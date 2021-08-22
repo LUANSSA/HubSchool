@@ -2,4 +2,4 @@
 
 projects written in Java language
 
-Frist Project - desktop bank
+1 - Frist Project - desktop bank
