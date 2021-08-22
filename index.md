@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##HubSchool - Projects Java language
 
 You can use the [editor on GitHub](https://github.com/LUANSSA/HubSchool-Java/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
