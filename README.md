@@ -1,2 +1,3 @@
 # HubSchool
-Hub
+
+projects written in Java language
